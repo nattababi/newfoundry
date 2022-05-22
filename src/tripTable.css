@@ -1,0 +1,51 @@
+/* When the checkbox is checked, add a blue background */
+.pagination{
+    padding: 10px;
+    user-select: none;
+    /* border: 2px solid red; */
+}
+
+.container {
+    /* border: 2px solid red; */
+    align-items: left;
+    margin: 0 auto 5px auto;
+    padding: 0;
+    font-size: smaller;
+}
+
+.toggle-all {
+    margin: 0 auto 0 auto;
+    padding: 5px;
+}
+
+.checkbox-container {
+    display: inline-block;
+    padding: 5px;
+}
+
+span {
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+}
+
+.temp-container {
+    /* border: 2px solid green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.my-icon {
+    /* border: 2px solid yellow; */
+}
+
+.my-text {
+    margin-right: 5px;
+}
+
+.my-wind {
+    margin-right: 5px;
+    margin-top: 5px;
+}
